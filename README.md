@@ -1,5 +1,3 @@
-# WEMADBLOCK-React-Bolierplate
-
 ## Getting started
 
 `yarn or yarn install 실행`
